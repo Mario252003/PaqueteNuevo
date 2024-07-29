@@ -8,7 +8,7 @@ LONG_DESCRIPTION = 'Mi primer paquete de Python con una descripción ligeramente
 setup(
        # el nombre debe coincidir con el nombre de la carpeta 	  
        #'modulomuysimple'
-        name="PaqueteNuevo", 
+        name="PaqueteNuevoExt", 
         version=0.1,
         author="Mario Zepeda",
         author_email="<marioraul.zepeda@hotmail.com>",
