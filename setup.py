@@ -9,7 +9,7 @@ setup(
        # el nombre debe coincidir con el nombre de la carpeta 	  
        #'modulomuysimple'
         name="PaqueteNuevoExt", 
-        version="0.3",
+        version="0.4",
         author="Mario Zepeda",
         author_email="<marioraul.zepeda@hotmail.com>",
         description=DESCRIPTION,
